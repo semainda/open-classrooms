@@ -15,6 +15,8 @@
 - git commit -m ["commit-message"]
 - git branch
 - git branch [branch-name]
+- git log
+- git log --oneline
 
 ## New Commands
 
